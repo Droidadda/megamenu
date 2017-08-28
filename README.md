@@ -21,7 +21,7 @@ Last responsive megamenu you'll ever need
 Download and open index.html **or:**
 #### Live Demo
 Live demo is avaliable on codepen 
-[megamenu.js demo](http://codepen.io/riogrande/pen/MKXweV)
+[megamenu.js demo](https://codepen.io/sunmughan/pen/KvGpbx)
 
 
 ## To do
